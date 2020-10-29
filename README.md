@@ -22,8 +22,8 @@ live in Yogyakarta, and currently pursuing my undergraduate education at Amikom 
 - :email: How to reach me: damar.3006@students.amikom.ac.id;
 - :notebook:[My Cv](https://calonsarjana.id/iamdamar)
 
-<br/>
-## :bar_chart: My Stats
+
+## <br/>:bar_chart: My Stats
 [![Damar's github stats](https://github-readme-stats.vercel.app/api?username=iam-damar)](https://github.com/iam-damar/github-readme-stats)
 <br />
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-damar&theme=blue-red)
