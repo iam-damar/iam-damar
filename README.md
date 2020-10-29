@@ -1,3 +1,5 @@
+![Header](https://user-images.githubusercontent.com/61747306/97590843-a2ae8c80-1a31-11eb-8fa7-5440ce2c7250.png)
+
 # Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi, my name is Damar Djati Wahyu Kemala and I am a beginner front-end developer. I come from Indonesia, 
 live in Yogyakarta, and currently pursuing my undergraduate education at Amikom University Yogyakarta.
@@ -16,12 +18,11 @@ live in Yogyakarta, and currently pursuing my undergraduate education at Amikom 
 - :email: How to reach me: damar.3006@students.amikom.ac.id;
 - :notebook:[My Cv](https://calonsarjana.id/iamdamar)
 
-![](https://img.shields.io/badge/Repository-4_Open-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+[![GitHub followers](https://img.shields.io/github/followers/iam-damar.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iam-damar?tab=followers)
 <br />
-![](https://img.shields.io/badge/Repository-4_Open-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Repository-4_Open-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Repository-4_Open-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![Profile views](https://gpvc.arturio.dev/iam-damar)
 
 ## My Stats
 [![Damar's github stats](https://github-readme-stats.vercel.app/api?username=iam-damar)](https://github.com/iam-damar/github-readme-stats)
+[![Damar's github stats](https://github-readme-stats.vercel.app/api?username=iam-damar&theme=blue-red)](https://github.com/iam-damar/github-readme-stats)
 
