@@ -16,7 +16,6 @@ live in Yogyakarta, and currently pursuing my undergraduate education at Amikom 
 <p>
   
 ## :boy: About Me..
-<br/>
 - :computer: I’m currently Focus on Web Programming;
 - :mortar_board: I’m pursuing my undergraduate education at Amikom University Yogyakarta;
 - 💬 Ask me about anything, I am happy to help; 
