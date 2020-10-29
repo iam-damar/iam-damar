@@ -3,6 +3,7 @@
 # Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi, my name is Damar Djati Wahyu Kemala and I am a beginner front-end developer. I come from Indonesia, 
 live in Yogyakarta, and currently pursuing my undergraduate education at Amikom University Yogyakarta.
+<br/><br/><br/>
 
 <p align="center">
   Follow me on 
@@ -12,12 +13,17 @@ live in Yogyakarta, and currently pursuing my undergraduate education at Amikom 
 <p>
   
 ## :boy: About Me..
-- :computer: I’m currently Focus on [Web Programming];
+<details>
+  <summary>A few things about me that you need to know</summary>
+
+- :computer: I’m currently Focus on Web Programming;
 - :mortar_board: I’m pursuing my undergraduate education at Amikom University Yogyakarta;
 - 💬 Ask me about anything, I am happy to help; 
 - :email: How to reach me: damar.3006@students.amikom.ac.id;
 - :notebook:[My Cv](https://calonsarjana.id/iamdamar)
+</details>
 
+<br/>
 ![Profile views](https://gpvc.arturio.dev/iam-damar)
 [![GitHub followers](https://img.shields.io/github/followers/iam-damar.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iam-damar?tab=followers)
 
