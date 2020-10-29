@@ -19,10 +19,10 @@ live in Yogyakarta, and currently pursuing my undergraduate education at Amikom 
 - :notebook:[My Cv](https://calonsarjana.id/iamdamar)
 
 ![Profile views](https://gpvc.arturio.dev/iam-damar)
-<br />
 [![GitHub followers](https://img.shields.io/github/followers/iam-damar.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iam-damar?tab=followers)
 
 ## My Stats
 [![Damar's github stats](https://github-readme-stats.vercel.app/api?username=iam-damar)](https://github.com/iam-damar/github-readme-stats)
+<br />
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-damar&theme=blue-red)
 
