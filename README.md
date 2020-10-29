@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/iam-damar)
 [![GitHub followers](https://img.shields.io/github/followers/iam-damar.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iam-damar?tab=followers)
 <br/><br/>
-Hi, my name is Damar Djati Wahyu Kemala and I am a beginner front-end developer. I come from Indonesia, 
+Hi, my name is Damar Djati Wahyu Kemala and I am a beginner front-end Web developer. I come from Indonesia, 
 live in Yogyakarta, and currently pursuing my undergraduate education at Amikom University Yogyakarta.
 <br/><br/><br/>
 
