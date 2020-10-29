@@ -17,7 +17,7 @@ live in Yogyakarta, and currently pursuing my undergraduate education at Amikom 
   
 ## :boy: About Me..
 <details>
-  <summary>A few things about me that you need to know</summary>
+  <summary>A **few things** about me that you need to know</summary>
 
 - :computer: I’m currently Focus on Web Programming;
 - :mortar_board: I’m pursuing my undergraduate education at Amikom University Yogyakarta;
