@@ -1,6 +1,9 @@
 ![Header](https://user-images.githubusercontent.com/61747306/97590843-a2ae8c80-1a31-11eb-8fa7-5440ce2c7250.png)
 
 # Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Profile views](https://gpvc.arturio.dev/iam-damar)
+[![GitHub followers](https://img.shields.io/github/followers/iam-damar.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iam-damar?tab=followers)
+<br/><br/>
 Hi, my name is Damar Djati Wahyu Kemala and I am a beginner front-end developer. I come from Indonesia, 
 live in Yogyakarta, and currently pursuing my undergraduate education at Amikom University Yogyakarta.
 <br/><br/><br/>
@@ -21,11 +24,6 @@ live in Yogyakarta, and currently pursuing my undergraduate education at Amikom 
 - 💬 Ask me about anything, I am happy to help; 
 - :email: How to reach me: damar.3006@students.amikom.ac.id;
 - :notebook:[My Cv](https://calonsarjana.id/iamdamar)
-
-<br/>
-![Profile views](https://gpvc.arturio.dev/iam-damar)
-[![GitHub followers](https://img.shields.io/github/followers/iam-damar.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iam-damar?tab=followers)
-
 </details>
 
 ## My Stats
