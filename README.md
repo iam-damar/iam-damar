@@ -16,15 +16,12 @@ live in Yogyakarta, and currently pursuing my undergraduate education at Amikom 
 <p>
   
 ## :boy: About Me..
-<details>
-  <summary>A **few things** about me that you need to know</summary>
-
+<br/><br/>
 - :computer: I’m currently Focus on Web Programming;
 - :mortar_board: I’m pursuing my undergraduate education at Amikom University Yogyakarta;
 - 💬 Ask me about anything, I am happy to help; 
 - :email: How to reach me: damar.3006@students.amikom.ac.id;
 - :notebook:[My Cv](https://calonsarjana.id/iamdamar)
-</details>
 
 ## My Stats
 [![Damar's github stats](https://github-readme-stats.vercel.app/api?username=iam-damar)](https://github.com/iam-damar/github-readme-stats)
