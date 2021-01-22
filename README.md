@@ -10,7 +10,7 @@ live in Yogyakarta, and currently pursuing my undergraduate education at Amikom 
 
 <p align="center">
   Follow me on 
-  <a href="linkedin.com/in/damar-djati-wahyu-kemala-5662381bb">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3Bx7WCxV%2FNTZOoG6bi3N7rtw%3D%3D">
     <img alt="Damar Djati Wahyu LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 <p>
