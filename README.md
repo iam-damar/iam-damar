@@ -20,7 +20,7 @@ live in Yogyakarta, and currently pursuing my undergraduate education at Amikom 
 - :mortar_board: I’m pursuing my undergraduate education at Amikom University Yogyakarta.
 - 💬 Ask me about anything, I am happy to help.
 - :email: How to reach me: damar.3006@students.amikom.ac.id.
-- :notebook:[My Cv](https://calonsarjana.id/iamdamar)
+- :notebook: [My Cv](https://calonsarjana.id/iamdamar)
 
 
 ## <br/>:bar_chart: My Stats
